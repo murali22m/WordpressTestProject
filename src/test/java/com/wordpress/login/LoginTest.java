@@ -90,6 +90,7 @@ public class LoginTest extends BaseTest {
 			  { "@#!@#!@#","User does not exist. Would you like to create a new account?" },
 			  { "","Please enter a username or email address." },
 			  { "murali2@gmail","User does not exist. Would you like to create a new account?" },
+			  { "murali2@yahoo.com","User does not exist. Would you like to create a new account?" },
 			  };
 	}
 
